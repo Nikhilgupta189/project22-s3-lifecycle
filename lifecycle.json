@@ -1,0 +1,14 @@
+{
+  "Rules": [
+    {
+      "ID": "project22-expire-logs",
+      "Status": "Enabled",
+      "Filter": {
+        "Prefix": "logs/"
+      },
+      "Expiration": {
+        "Days": 30
+      }
+    }
+  ]
+}

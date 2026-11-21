@@ -1,0 +1,4 @@
+bucket-name.txt
+*.pem
+*.key
+.env
